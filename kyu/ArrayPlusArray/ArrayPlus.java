@@ -1,4 +1,4 @@
-package kyu.ArrayPlusArray;
+package ArrayPlusArray;
 
 public class ArrayPlus {
     public static String stringName(String name) {

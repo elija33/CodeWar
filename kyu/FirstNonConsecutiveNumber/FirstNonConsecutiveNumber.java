@@ -1,4 +1,4 @@
-package kyu.FirstNonConsecutiveNumber;
+package FirstNonConsecutiveNumber;
 
 public class FirstNonConsecutiveNumber {
     public static Integer findNocConsecutiveNumber(final int[] number) {

@@ -1,4 +1,4 @@
-package kyu.ReturningStrings;
+package ReturningStrings;
 
 public class Stringreturn {
     public static String greet(String name) {

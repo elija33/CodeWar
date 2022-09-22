@@ -1,4 +1,4 @@
-package kyu.CalculateAverage;
+package CalculateAverage;
 
 public class calculateave {
     public static double find_average(int[] number) {

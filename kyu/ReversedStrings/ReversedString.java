@@ -1,4 +1,4 @@
-package kyu.ReversedStrings;
+package ReversedStrings;
 
 public class ReversedString {
 
