@@ -1,5 +1,5 @@
 # CodeWar
-                                        # If you can't sleep, just count sheep!!
+                                        Remove String Space
 
 Task:
 
