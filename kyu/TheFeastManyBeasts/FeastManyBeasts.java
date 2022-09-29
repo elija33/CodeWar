@@ -8,5 +8,4 @@ public class FeastManyBeasts {
     public static void main(String[] args) {
 
     }
-
 }
